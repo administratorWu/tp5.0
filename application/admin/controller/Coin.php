@@ -5,5 +5,6 @@ class Coin
     public function test()
     {
        echo 'sss';
+	   echo phpinfo();
     }
 }
