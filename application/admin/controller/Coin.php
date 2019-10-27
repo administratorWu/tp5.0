@@ -8,5 +8,6 @@ class User
     public function test()
     {
        echo 'sss';
+	   echo '1212';
     }
 }
