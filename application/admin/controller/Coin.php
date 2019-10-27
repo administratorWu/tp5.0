@@ -7,6 +7,6 @@ class User
 {
     public function test()
     {
-       echo 1;
+       echo 'sss';
     }
 }
