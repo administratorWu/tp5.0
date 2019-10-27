@@ -1,9 +1,6 @@
 <?php
 namespace app\admin\controller;
-
-use app\admin\model\User as Users;
-
-class User
+class Coin
 {
     public function test()
     {
